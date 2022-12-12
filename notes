@@ -3,3 +3,37 @@ crear un repositorio
 subir los archivos
 crear ramas 
 con diferentes versiones del projecto
+agregar los div
+agregar la cabecera
+
+.show answer  = es la parte rodada 
+              = si no se colocan los margenes no se separa de los demas divs
+              
+              
+margin: 0px 0px 60px 0px;
+
+60px = a la separacion de abajo
+
+margin: 60px; = si colocara asi se separaria la parte de arriba
+
+border-top-left-radius:10px; = por ejemplo en un rectangulo serian los bordes de arriba de la izquierda
+                               10px es el tamaño del borde
+                               
+
+.box1{
+    display: flex;    = significa que sus elementos se ven horizontalmente
+}
+
+What does display flex do in HTML?
+Flex is the value of css display . 
+By using display flex in parent elements, 
+child elements automatically align like columns 
+or rows with auto width and auto height
+
+
+
+
+
+
+
+
