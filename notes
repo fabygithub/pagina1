@@ -30,6 +30,18 @@ By using display flex in parent elements,
 child elements automatically align like columns 
 or rows with auto width and auto height
 
+19-12-2022
+
+//sirve para centrear un div
+transform: translate(-50%,-50%);
+left: 50%; 
+
+//separa un div desde arriba
+margin-top: 20px;
+
+// aparece una mano
+cursor: pointer;
+
 
 
 
